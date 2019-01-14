@@ -5,12 +5,11 @@
 License
 -------
 
-Clawpack is distributed under the terms of the
+Clawpack is distributed under the terms of the 3-clause
 Berkeley Software Distribution (BSD) license.  
 
-See http://www.opensource.org/licenses/bsd-license.php
+See https://opensource.org/licenses/BSD-3-Clause
 for more details.
-
 
 Copyright (c) 1994--2017, The Clawpack Development Team.
 All rights reserved.
@@ -29,8 +28,6 @@ modification, are permitted provided that the following conditions are met:
      contributors may be used to endorse or promote products derived from
      this software without specific prior written permission.
 
-
-
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -42,4 +39,3 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
-
